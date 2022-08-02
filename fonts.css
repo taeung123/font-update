@@ -19,3 +19,10 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: HKGrotesk;
+    src: local(HKGrotesk-Regular), url(HKGrotesk-Regular.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
